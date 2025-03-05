@@ -1,7 +1,7 @@
 # 👋 Hello there!
-I'm Facundo Mamani, a Frontend Developer - FiveM Developer
+I'm Facundo Mamani, a Frontend Developer 
 <br>Also a computer engineering student & electronic technician
-<br>Currently working at Lix Software & getting into backend development as well ⏳
+<br>Recently worked at Lix Software, I'm looking for new challenges in frontend development and I'm getting into backend development as well ⏳
 <br>
 <br>
 
@@ -20,7 +20,6 @@ I'm Facundo Mamani, a Frontend Developer - FiveM Developer
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 <br> 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)      ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
