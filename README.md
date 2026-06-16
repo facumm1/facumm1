@@ -1,3 +1,3 @@
-# 👋 Hello!
-I'm Facundo Mamani, a Fullstack Developer 
-<br>Currently working for Underqubit
+# 👋 Welcome!
+I'm Facundo Mamani, a Software Developer. 
+<br>Currently working for Underqubit.
